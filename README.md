@@ -1,2 +1,2 @@
 #Lab5
-Website Homepage using CSS
+This lab will showcase what my Website Homepage is gonna look like using CSS.
